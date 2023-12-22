@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I'm currntly a graduate student, and I major Physics.
+I'm a graduate student, and I major Physics.
 <!--
 **D-Morita-Phys/D-Morita-Phys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
